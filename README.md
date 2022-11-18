@@ -10,8 +10,8 @@ Job listings are separated by uncleared jobs (no clearance required), cleared jo
 
 Company | Job Postings Link|
 |---|---|
-| Remote/OK | [Link](https://remoteok.com/remote-infosec-jobs/) |
 | CrowdStrike | [Link](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/) |
+
 
 
 ### Cleared Jobs
@@ -24,4 +24,6 @@ Company | Job Postings Link|
 ### Both
 Company | Job Postings Link|
 |---|---|
+| CyberSN | [Link]([https://www.indeed.com](https://cybersn.com/public/search-jobs)/) |
 | Indeed | [Link](https://www.indeed.com/) |
+| NinjaJobs | [Link]([https://www.indeed.com](https://ninjajobs.org/)/) |
