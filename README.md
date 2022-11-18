@@ -72,4 +72,18 @@ Company | Job Postings Link|
 ### Mostly Remote
 Company | Job Postings Link|
 |---|---|
-| CareerBuilder | [Link](https://www.careerbuilder.com/) |
+| 10up | [Link](https://10up.com/careers//) |
+| AngelList | [Link](https://angel.co/company/angellist/) |
+| Bandcamp | [Link](https://bandcamp.com/jobs/) |
+| Chess | [Link](https://www.chess.com/jobs/) |
+| Consensys | [Link](https://consensys.net/open-roles/) |
+| Crossover | [Link](https://app.crossover.com/x/marketplace/available-jobs/) |
+| DataDog | [Link](https://careers.datadoghq.com/) |
+| DataRobot | [Link](https://www.datarobot.com/careers/) |
+| DuckDuckGo | [Link](https://duckduckgo.com/hiring/) |
+| Eyeo | [Link](https://eyeo.com/careers/) |
+| FileCloud | [Link](https://www.filecloud.com/careers/#Open_Roles/) |
+
+
+
+
