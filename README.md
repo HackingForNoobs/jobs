@@ -3,7 +3,7 @@ This repo is designed to help aspiring IT and Security professionals find work!
 
 
 ## Description
-Job listings are separated by government jobs, non-government jobs, and a combination of the two.
+Job listings are separated by government jobs, non-government jobs, and a combination of the two. The last section are listings that are mostly remote.
 
 
 ### Government Jobs
@@ -25,6 +25,7 @@ Company | Job Postings Link|
 
 Company | Job Postings Link|
 |---|---|
+| Accenture | [Link](https://www.accenture.com/us-en/servicesnew/us-federal-government/mission-careers-search/) |
 | Amazon | [Link](https://account.amazon.jobs/) |
 | BishopFox | [Link](https://bishopfox.com/careers/) |
 | Black Knight | [Link](https://blackknight.wd1.myworkdayjobs.com/en-US/BKC/) |
@@ -36,16 +37,24 @@ Company | Job Postings Link|
 | CrowdStrike | [Link](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/) |
 | Dell | [Link](https://jobs.dell.com/search-jobs/) |
 | Deloitte | [Link](https://applyglobal.deloitte.com/careers/) |
+| Dow Jones | [Link](https://dowjones.jobs/) |
 | Dragos | [Link](https://jobs.lever.co/dragos/) |
+| Elastic | [Link](https://jobs.elastic.co/jobs/country/united-states#/) |
 | Fastly | [Link](https://www.fastly.com/about/careers/current-openings/) |
 | FlashPoint | [Link](https://flashpoint.io/about-us/careers/#open-positions/) |
 | Herjavec Group | [Link](https://www.herjavecgroup.com/about-us/careers/) |
+| Intel | [Link](https://jobs.intel.com/en/) |
+| Leviathan | [Link](https://jobs.lever.co/LeviathanSecurityGroup/) |
 | Mandiant | [Link](https://www.mandiant.com/careers#open-roles/) |
+| Microsoft | [Link](https://careers.microsoft.com/professionals/us/en/professions/) |
+| Mozilla | [Link](https://www.mozilla.org/en-US/careers/listings/) |
 | Okta | [Link](https://www.okta.com/company/careers/) |
 | Paloalto Networks | [Link](https://jobs.paloaltonetworks.com/en/jobs/#content/) |
 | Proofpoint | [Link](https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/) |
 | Remote/OK | [Link](https://remoteok.com/remote-infosec-jobs/) |
 | ReversingLabs | [Link](https://apply.workable.com/reversinglabs/?not_found=true/) |
+| SecurityScorecard | [Link](https://securityscorecard.com/company/careers#open-positions/) |
+| Tenable | [Link](https://careers.tenable.com/search/jobs/) |
 | UnitedHealth Group | [Link](https://careers.unitedhealthgroup.com/job-search-results/) |
 
 
@@ -58,3 +67,9 @@ Company | Job Postings Link|
 | Indeed | [Link](https://www.indeed.com/) |
 | L3HARRIS | [Link](https://careers.l3harris.com/search-jobs/) |
 | NinjaJobs | [Link](https://ninjajobs.org/) |
+
+
+### Mostly Remote
+Company | Job Postings Link|
+|---|---|
+| CareerBuilder | [Link](https://www.careerbuilder.com/) |
