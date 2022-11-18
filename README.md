@@ -26,11 +26,15 @@ Company | Job Postings Link|
 Company | Job Postings Link|
 |---|---|
 | Amazon | [Link](https://account.amazon.jobs/) |
+| BishopFox | [Link](https://bishopfox.com/careers/) |
 | BNY Mellon | [Link](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions?/) |
+| BreakPoint Labs | [Link](https://jobs.polymer.co/breakpointlabs/) |
 | Cisco | [Link](https://jobs.cisco.com/jobs/SearchJobs/) |
+| Cisco Talos | [Link](https://www.talosintelligence.com/careers/) |
 | CrowdStrike | [Link](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/) |
 | Deloitte | [Link](https://applyglobal.deloitte.com/careers/) |
 | FlashPoint | [Link](https://flashpoint.io/about-us/careers/#open-positions/) |
+| Herjavec Group | [Link](https://www.herjavecgroup.com/about-us/careers/) |
 | Mandiant | [Link](https://www.mandiant.com/careers#open-roles/) |
 | Remote/OK | [Link](https://remoteok.com/remote-infosec-jobs/) |
 | UnitedHealth Group | [Link](https://careers.unitedhealthgroup.com/job-search-results/) |
@@ -39,6 +43,7 @@ Company | Job Postings Link|
 ### Government/Non-Government Jobs
 Company | Job Postings Link|
 |---|---|
+| CareerBuilder | [Link](https://www.careerbuilder.com/) |
 | CyberSN | [Link](https://cybersn.com/public/search-jobs/) |
 | Indeed | [Link](https://www.indeed.com/) |
 | L3HARRIS | [Link](https://careers.l3harris.com/search-jobs/) |
