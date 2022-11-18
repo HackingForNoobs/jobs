@@ -39,6 +39,7 @@ Company | Job Postings Link|
 | Herjavec Group | [Link](https://www.herjavecgroup.com/about-us/careers/) |
 | Mandiant | [Link](https://www.mandiant.com/careers#open-roles/) |
 | Paloalto Networks | [Link](https://jobs.paloaltonetworks.com/en/jobs/#content/) |
+| Proofpoint | [Link](https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/) |
 | Remote/OK | [Link](https://remoteok.com/remote-infosec-jobs/) |
 | ReversingLabs | [Link](https://apply.workable.com/reversinglabs/?not_found=true/) |
 | UnitedHealth Group | [Link](https://careers.unitedhealthgroup.com/job-search-results/) |
@@ -48,6 +49,7 @@ Company | Job Postings Link|
 Company | Job Postings Link|
 |---|---|
 | CareerBuilder | [Link](https://www.careerbuilder.com/) |
+| Coalfire | [Link](https://www.coalfire.com/careers/) |
 | CyberSN | [Link](https://cybersn.com/public/search-jobs/) |
 | Indeed | [Link](https://www.indeed.com/) |
 | L3HARRIS | [Link](https://careers.l3harris.com/search-jobs/) |
