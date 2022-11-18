@@ -83,7 +83,7 @@ Company | Job Postings Link|
 | DuckDuckGo | [Link](https://duckduckgo.com/hiring/) |
 | Eyeo | [Link](https://eyeo.com/careers/) |
 | FileCloud | [Link](https://www.filecloud.com/careers/#Open_Roles/) |
-
-
+| FireFlies | [Link](https://fireflies.freshteam.com/jobs/) |
+| GitLab | [Link](https://about.gitlab.com/jobs/all-jobs/) |
 
 
