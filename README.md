@@ -33,10 +33,14 @@ Company | Job Postings Link|
 | Cisco Talos | [Link](https://www.talosintelligence.com/careers/) |
 | CrowdStrike | [Link](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/) |
 | Deloitte | [Link](https://applyglobal.deloitte.com/careers/) |
+| Dragos | [Link](https://jobs.lever.co/dragos/) |
+| Fastly | [Link](https://www.fastly.com/about/careers/current-openings/) |
 | FlashPoint | [Link](https://flashpoint.io/about-us/careers/#open-positions/) |
 | Herjavec Group | [Link](https://www.herjavecgroup.com/about-us/careers/) |
 | Mandiant | [Link](https://www.mandiant.com/careers#open-roles/) |
+| Paloalto Networks | [Link](https://jobs.paloaltonetworks.com/en/jobs/#content/) |
 | Remote/OK | [Link](https://remoteok.com/remote-infosec-jobs/) |
+| ReversingLabs | [Link](https://apply.workable.com/reversinglabs/?not_found=true/) |
 | UnitedHealth Group | [Link](https://careers.unitedhealthgroup.com/job-search-results/) |
 
 
