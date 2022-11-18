@@ -27,6 +27,7 @@ Company | Job Postings Link|
 |---|---|
 | Cisco | [Link](https://jobs.cisco.com/jobs/SearchJobs/) |
 | CrowdStrike | [Link](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/) |
+| Deloitte | [Link](https://applyglobal.deloitte.com/careers/) |
 | Mandiant | [Link](https://www.mandiant.com/careers#open-roles/) |
 | Remote/OK | [Link](https://remoteok.com/remote-infosec-jobs/) |
 
@@ -36,4 +37,5 @@ Company | Job Postings Link|
 |---|---|
 | CyberSN | [Link](https://cybersn.com/public/search-jobs/) |
 | Indeed | [Link](https://www.indeed.com/) |
+| L3HARRIS | [Link](https://careers.l3harris.com/search-jobs/) |
 | NinjaJobs | [Link](https://ninjajobs.org/) |
