@@ -27,17 +27,21 @@ Company | Job Postings Link|
 |---|---|
 | Amazon | [Link](https://account.amazon.jobs/) |
 | BishopFox | [Link](https://bishopfox.com/careers/) |
+| Black Knight | [Link](https://blackknight.wd1.myworkdayjobs.com/en-US/BKC/) |
 | BNY Mellon | [Link](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions?/) |
 | BreakPoint Labs | [Link](https://jobs.polymer.co/breakpointlabs/) |
+| Canonical | [Link](https://canonical.com/careers/all/) |
 | Cisco | [Link](https://jobs.cisco.com/jobs/SearchJobs/) |
 | Cisco Talos | [Link](https://www.talosintelligence.com/careers/) |
 | CrowdStrike | [Link](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/) |
+| Dell | [Link](https://jobs.dell.com/search-jobs/) |
 | Deloitte | [Link](https://applyglobal.deloitte.com/careers/) |
 | Dragos | [Link](https://jobs.lever.co/dragos/) |
 | Fastly | [Link](https://www.fastly.com/about/careers/current-openings/) |
 | FlashPoint | [Link](https://flashpoint.io/about-us/careers/#open-positions/) |
 | Herjavec Group | [Link](https://www.herjavecgroup.com/about-us/careers/) |
 | Mandiant | [Link](https://www.mandiant.com/careers#open-roles/) |
+| Okta | [Link](https://www.okta.com/company/careers/) |
 | Paloalto Networks | [Link](https://jobs.paloaltonetworks.com/en/jobs/#content/) |
 | Proofpoint | [Link](https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/) |
 | Remote/OK | [Link](https://remoteok.com/remote-infosec-jobs/) |
