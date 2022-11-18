@@ -3,22 +3,21 @@ This repo is designed to help aspiring IT and Security professionals find work!
 
 
 ## Description
-Job listings are separated by uncleared jobs (no clearance required), cleared jobs (clearance required), and both (uncleared & cleared).
+Job listings are separated by government jobs, non-government jobs, and a combination of the two.
 
 
-### Uncleared Jobs
-
-Company | Job Postings Link|
-|---|---|
-| CrowdStrike | [Link](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/) |
-
-
-
-### Cleared Jobs
+### Government Jobs
 
 Company | Job Postings Link|
 |---|---|
 | ClearanceJobs | [Link](https://www.clearancejobs.com/) |
+| USAJobs | [Link](https://www.usajobs.gov/) |
+
+### Non-Government Jobs
+
+Company | Job Postings Link|
+|---|---|
+| CrowdStrike | [Link](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/) |
 
 
 ### Both
