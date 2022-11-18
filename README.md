@@ -24,6 +24,6 @@ Company | Job Postings Link|
 ### Both
 Company | Job Postings Link|
 |---|---|
-| CyberSN | [Link]([https://www.indeed.com](https://cybersn.com/public/search-jobs)) |
+| CyberSN | [Link](https://cybersn.com/public/search-jobs/) |
 | Indeed | [Link](https://www.indeed.com/) |
-| NinjaJobs | [Link]([https://www.indeed.com](https://ninjajobs.org/)) |
+| NinjaJobs | [Link](https://ninjajobs.org/) |
