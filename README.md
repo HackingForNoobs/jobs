@@ -10,7 +10,7 @@ Job listings are separated by uncleared jobs (no clearance required), cleared jo
 
 Company | Job Postings Link|
 |---|---|
-| Indeed | [Link](https://www.indeed.com/) |
+| Remote/OK | [Link](https://remoteok.com/remote-infosec-jobs/) |
 
 
 ### Cleared Jobs
