@@ -47,7 +47,6 @@ Company | Job Postings Link|
 | Leviathan | [Link](https://jobs.lever.co/LeviathanSecurityGroup/) |
 | Mandiant | [Link](https://www.mandiant.com/careers#open-roles/) |
 | Microsoft | [Link](https://careers.microsoft.com/professionals/us/en/professions/) |
-| Mozilla | [Link](https://www.mozilla.org/en-US/careers/listings/) |
 | Okta | [Link](https://www.okta.com/company/careers/) |
 | Paloalto Networks | [Link](https://jobs.paloaltonetworks.com/en/jobs/#content/) |
 | Proofpoint | [Link](https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/) |
@@ -85,5 +84,16 @@ Company | Job Postings Link|
 | FileCloud | [Link](https://www.filecloud.com/careers/#Open_Roles/) |
 | FireFlies | [Link](https://fireflies.freshteam.com/jobs/) |
 | GitLab | [Link](https://about.gitlab.com/jobs/all-jobs/) |
+| Hubstaff | [Link](https://hubstaff.com/jobs#hsds-open-positions/) |
+| Igalia | [Link](https://www.igalia.com/jobs/) |
+| Kentik | [Link](https://www.kentik.com/careers/#postings/) |
+| madewithlove | [Link](https://madewithlove.com/careers/) |
+| MarsBased | [Link](https://marsbased.com/jobs/) |
+| Mobile Jazz | [Link](https://mobilejazz.com/careers/) |
+| Mozilla | [Link](https://www.mozilla.org/en-US/careers/listings/) |
+| Netlify | [Link](https://www.netlify.com/careers/#perfect-job/) |
+| Percona | [Link](https://www.percona.com/about-percona/careers/) |
+| Togetherwork | [Link](https://www.togetherwork.com/jobs/) |
+
 
 
