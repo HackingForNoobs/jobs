@@ -39,10 +39,8 @@ Company | Job Postings Link|
 | Dell | [Link](https://jobs.dell.com/search-jobs/) |
 | Deloitte | [Link](https://applyglobal.deloitte.com/careers/) |
 | Dow Jones | [Link](https://dowjones.jobs/) |
-| Dragos | [Link](https://jobs.lever.co/dragos/) |
 | Elastic | [Link](https://jobs.elastic.co/jobs/country/united-states#/) |
 | Fastly | [Link](https://www.fastly.com/about/careers/current-openings/) |
-| FlashPoint | [Link](https://flashpoint.io/about-us/careers/#open-positions/) |
 | Herjavec Group | [Link](https://www.herjavecgroup.com/about-us/careers/) |
 | Intel | [Link](https://jobs.intel.com/en/) |
 | Leviathan | [Link](https://jobs.lever.co/LeviathanSecurityGroup/) |
@@ -51,7 +49,6 @@ Company | Job Postings Link|
 | Okta | [Link](https://www.okta.com/company/careers/) |
 | Paloalto Networks | [Link](https://jobs.paloaltonetworks.com/en/jobs/#content/) |
 | Proofpoint | [Link](https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/) |
-| ReversingLabs | [Link](https://apply.workable.com/reversinglabs/?not_found=true/) |
 | Riot Games | [Link](https://www.riotgames.com/en/work-with-us/jobs/) |
 | SecurityScorecard | [Link](https://securityscorecard.com/company/careers#open-positions/) |
 | Tenable | [Link](https://careers.tenable.com/search/jobs/) |
@@ -90,12 +87,14 @@ Company | Job Postings Link|
 | DataDog | [Link](https://careers.datadoghq.com/) |
 | Daily Remote | [Link](https://dailyremote.com/) |
 | DataRobot | [Link](https://www.datarobot.com/careers/) |
+| Dragos | [Link](https://jobs.lever.co/dragos/) |
 | Dribble Jobs | [Link](https://dribbble.com/jobs?location=Anywhere/) |
 | DuckDuckGo | [Link](https://duckduckgo.com/hiring/) |
 | Eyeo | [Link](https://eyeo.com/careers/) |
 | FileCloud | [Link](https://www.filecloud.com/careers/#Open_Roles/) |
 | Findwork | [Link](https://findwork.dev/) |
 | FireFlies | [Link](https://fireflies.freshteam.com/jobs/) |
+| FlashPoint | [Link](https://flashpoint.io/about-us/careers/#open-positions/) |
 | FlexJobs | [Link](https://www.flexjobs.com/) |
 | GitLab | [Link](https://about.gitlab.com/jobs/all-jobs/) |
 | Golangprojects | [Link](https://www.golangprojects.com/golang-remote-jobs.html/) |
@@ -131,6 +130,7 @@ Company | Job Postings Link|
 | Remote Leaf | [Link](https://remoteleaf.com/) |
 | Remote Python | [Link](https://www.remotepython.com/) |
 | Remote Works | [Link](https://remote.works-hub.com/) |
+| ReversingLabs | [Link](https://apply.workable.com/reversinglabs/?not_found=true/) |
 | RubyOnRemote | [Link](https://rubyonremote.com/) |
 | Scylla | [Link](https://www.scylladb.com/company/careers/) |
 | Shogun | [Link](https://getshogun.com/careers/#Open-Positions/) |
