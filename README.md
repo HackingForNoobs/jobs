@@ -3,10 +3,10 @@ This repo is designed to help aspiring IT and Security professionals find work!
 
 
 ## Description
-Job listings are separated by government jobs, non-government jobs, and mostly remote.
+Job listings are separated by government, non-government, and mostly remote.
 
 
-### Government/Non-Government Jobs
+### Hybrid Listings
 Company | Job Postings Link|
 |---|---|
 | CareerBuilder | [Link](https://www.careerbuilder.com/) |
@@ -17,7 +17,7 @@ Company | Job Postings Link|
 | NinjaJobs | [Link](https://ninjajobs.org/) |
 
 
-### Government Jobs
+### Government Listings
 
 Company | Job Postings Link|
 |---|---|
@@ -33,7 +33,7 @@ Company | Job Postings Link|
 | USAJobs | [Link](https://www.usajobs.gov/) |
 
 
-### Non-Government Jobs
+### Non-Government Listings
 
 Company | Job Postings Link|
 |---|---|
@@ -67,7 +67,8 @@ Company | Job Postings Link|
 | UnitedHealth Group | [Link](https://careers.unitedhealthgroup.com/job-search-results/) |
 
 
-### Mostly Remote
+### Mostly Remote Listings
+
 Company | Job Postings Link|
 |---|---|
 | 10up | [Link](https://10up.com/careers/) |
