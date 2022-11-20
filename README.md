@@ -108,10 +108,10 @@ Company | Job Postings Link|
 | Togetherwork | [Link](https://www.togetherwork.com/jobs/) |
 | Toggl | [Link](https://toggl.com/jobs/) |
 | Vercel | [Link](https://vercel.com/careers/) |
-
-
-
-
+| Wikimedia | [Link](https://wikimediafoundation.org/about/jobs/#section-1/) |
+| X-team | [Link](https://x-team.com/remote-programming-jobs/) |
+| XWP | [Link](https://join.xwp.co/) |
+| Zapier | [Link](https://zapier.com/jobs#job-openings/) |
 
 
 
