@@ -72,10 +72,12 @@ Company | Job Postings Link|
 ### Mostly Remote
 Company | Job Postings Link|
 |---|---|
-| 10up | [Link](https://10up.com/careers//) |
+| 10up | [Link](https://10up.com/careers/) |
+| 4 Day Week | [Link](https://4dayweek.io/) |
 | AngelList | [Link](https://angel.co/company/angellist/) |
 | Authenic Jobs | [Link](https://authenticjobs.com/#onlyremote=1/) |
 | Bandcamp | [Link](https://bandcamp.com/jobs/) |
+| Career Vault | [Link](https://www.careervault.io/remote-jobs/) |
 | Chess | [Link](https://www.chess.com/jobs/) |
 | Consensys | [Link](https://consensys.net/open-roles/) |
 | Crossover | [Link](https://app.crossover.com/x/marketplace/available-jobs/) |
@@ -84,11 +86,14 @@ Company | Job Postings Link|
 | DuckDuckGo | [Link](https://duckduckgo.com/hiring/) |
 | Eyeo | [Link](https://eyeo.com/careers/) |
 | FileCloud | [Link](https://www.filecloud.com/careers/#Open_Roles/) |
+| Findwork | [Link](https://findwork.dev/) |
 | FireFlies | [Link](https://fireflies.freshteam.com/jobs/) |
 | FlexJobs | [Link](https://www.flexjobs.com/) |
 | GitLab | [Link](https://about.gitlab.com/jobs/all-jobs/) |
+| Google Jobs | [Link](https://www.google.com/search?q=remote&ibp=htl;jobs#fpstate=tldetail&htidocid=IO0hI7dpKTSlzSKoAAAAAA%3D%3D&htin=1&htivrt=jobs/) |
 | Hubstaff | [Link](https://hubstaff.com/jobs#hsds-open-positions/) |
 | Igalia | [Link](https://www.igalia.com/jobs/) |
+| JS Remotely | [Link](https://jsremotely.com/) |
 | Kentik | [Link](https://www.kentik.com/careers/#postings/) |
 | madewithlove | [Link](https://madewithlove.com/careers/) |
 | MarsBased | [Link](https://marsbased.com/jobs/) |
@@ -104,6 +109,9 @@ Company | Job Postings Link|
 | Remote4me | [Link](https://remote4me.com/#jobs/) |
 | Remote.co | [Link](https://remote.co/remote-jobs/) |
 | Remotive | [Link](https://remotive.com/) |
+| Remote Index | [Link](https://remoteindex.co/) |
+| Remote Leaf | [Link](https://remoteleaf.com/) |
+| Remote Python | [Link](https://www.remotepython.com/) |
 | Scylla | [Link](https://www.scylladb.com/company/careers/) |
 | Shogun | [Link](https://getshogun.com/careers/#Open-Positions/) |
 | Shopify | [Link](https://www.shopify.com/careers/) |
@@ -116,7 +124,9 @@ Company | Job Postings Link|
 | Vercel | [Link](https://vercel.com/careers/) |
 | wellfound | [Link](https://angel.co/remote/) |
 | WeWorkRemotely | [Link](https://weworkremotely.com/) |
+| whoishiring | [Link](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true/) |
 | Wikimedia | [Link](https://wikimediafoundation.org/about/jobs/#section-1/) |
+| Workaline | [Link](https://workaline.com/) |
 | Working Nomads | [Link](https://www.workingnomads.com/jobs/) |
 | X-team | [Link](https://x-team.com/remote-programming-jobs/) |
 | XWP | [Link](https://join.xwp.co/) |
