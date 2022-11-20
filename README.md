@@ -129,15 +129,20 @@ Company | Job Postings Link|
 | Remote Index | [Link](https://remoteindex.co/) |
 | Remote Leaf | [Link](https://remoteleaf.com/) |
 | Remote Python | [Link](https://www.remotepython.com/) |
+| Remote Works | [Link](https://remote.works-hub.com/) |
+| RubyOnRemote | [Link](https://rubyonremote.com/) |
 | Scylla | [Link](https://www.scylladb.com/company/careers/) |
 | Shogun | [Link](https://getshogun.com/careers/#Open-Positions/) |
 | Shopify | [Link](https://www.shopify.com/careers/) |
+| SkipTheDrive | [Link](https://www.skipthedrive.com/) |
 | Sonatype | [Link](https://www.sonatype.com/company/careers/) |
 | Sourcegraph | [Link](https://boards.greenhouse.io/sourcegraph91/) |
 | Spotify | [Link](https://www.lifeatspotify.com/jobs/) |
 | Square | [Link](https://careers.squareup.com/us/en/jobs?location%5B%5D=Remote/) |
 | Togetherwork | [Link](https://www.togetherwork.com/jobs/) |
 | Toggl | [Link](https://toggl.com/jobs/) |
+| Upwork | [Link](https://www.upwork.com/) |
+| VirtualVocations | [Link](https://www.virtualvocations.com/) |
 | Vercel | [Link](https://vercel.com/careers/) |
 | wellfound | [Link](https://angel.co/remote/) |
 | WeWorkRemotely | [Link](https://weworkremotely.com/) |
