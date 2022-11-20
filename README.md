@@ -3,7 +3,18 @@ This repo is designed to help aspiring IT and Security professionals find work!
 
 
 ## Description
-Job listings are separated by government jobs, non-government jobs, and a combination of the two. The last section are listings that are mostly remote.
+Job listings are separated by government jobs, non-government jobs, and mostly remote.
+
+
+### Government/Non-Government Jobs
+Company | Job Postings Link|
+|---|---|
+| CareerBuilder | [Link](https://www.careerbuilder.com/) |
+| Coalfire | [Link](https://www.coalfire.com/careers/) |
+| CyberSN | [Link](https://cybersn.com/public/search-jobs/) |
+| Indeed | [Link](https://www.indeed.com/) |
+| L3HARRIS | [Link](https://careers.l3harris.com/search-jobs/) |
+| NinjaJobs | [Link](https://ninjajobs.org/) |
 
 
 ### Government Jobs
@@ -54,17 +65,6 @@ Company | Job Postings Link|
 | Tenable | [Link](https://careers.tenable.com/search/jobs/) |
 | Trellix | [Link](https://careers.trellix.com/) |
 | UnitedHealth Group | [Link](https://careers.unitedhealthgroup.com/job-search-results/) |
-
-
-### Government/Non-Government Jobs
-Company | Job Postings Link|
-|---|---|
-| CareerBuilder | [Link](https://www.careerbuilder.com/) |
-| Coalfire | [Link](https://www.coalfire.com/careers/) |
-| CyberSN | [Link](https://cybersn.com/public/search-jobs/) |
-| Indeed | [Link](https://www.indeed.com/) |
-| L3HARRIS | [Link](https://careers.l3harris.com/search-jobs/) |
-| NinjaJobs | [Link](https://ninjajobs.org/) |
 
 
 ### Mostly Remote
