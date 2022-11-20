@@ -54,6 +54,7 @@ Company | Job Postings Link|
 | ReversingLabs | [Link](https://apply.workable.com/reversinglabs/?not_found=true/) |
 | SecurityScorecard | [Link](https://securityscorecard.com/company/careers#open-positions/) |
 | Tenable | [Link](https://careers.tenable.com/search/jobs/) |
+| Trellix | [Link](https://careers.trellix.com/) |
 | UnitedHealth Group | [Link](https://careers.unitedhealthgroup.com/job-search-results/) |
 
 
@@ -93,7 +94,25 @@ Company | Job Postings Link|
 | Mozilla | [Link](https://www.mozilla.org/en-US/careers/listings/) |
 | Netlify | [Link](https://www.netlify.com/careers/#perfect-job/) |
 | Percona | [Link](https://www.percona.com/about-percona/careers/) |
+| Platform.sh | [Link](https://platform.sh/company/careers/#grnhse_board/) |
+| Pythian | [Link](https://jobs.lever.co/pythian/) |
+| Rebelmouse | [Link](https://careers.rebelmouse.com/) |
+| RedHat | [Link](https://careers-redhat.icims.com/jobs/search?mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300/) |
+| Scylla | [Link](https://www.scylladb.com/company/careers/) |
+| Shogun | [Link](https://getshogun.com/careers/#Open-Positions/) |
+| Shopify | [Link](https://www.shopify.com/careers/) |
+| Sonatype | [Link](https://www.sonatype.com/company/careers/) |
+| Sourcegraph | [Link](https://boards.greenhouse.io/sourcegraph91/) |
+| Spotify | [Link](https://www.lifeatspotify.com/jobs/) |
+| Square | [Link](https://careers.squareup.com/us/en/jobs?location%5B%5D=Remote/) |
 | Togetherwork | [Link](https://www.togetherwork.com/jobs/) |
+| Toggl | [Link](https://toggl.com/jobs/) |
+| Vercel | [Link](https://vercel.com/careers/) |
+
+
+
+
+
 
 
 
