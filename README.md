@@ -74,6 +74,7 @@ Company | Job Postings Link|
 |---|---|
 | 10up | [Link](https://10up.com/careers//) |
 | AngelList | [Link](https://angel.co/company/angellist/) |
+| Authenic Jobs | [Link](https://authenticjobs.com/#onlyremote=1/) |
 | Bandcamp | [Link](https://bandcamp.com/jobs/) |
 | Chess | [Link](https://www.chess.com/jobs/) |
 | Consensys | [Link](https://consensys.net/open-roles/) |
@@ -84,6 +85,7 @@ Company | Job Postings Link|
 | Eyeo | [Link](https://eyeo.com/careers/) |
 | FileCloud | [Link](https://www.filecloud.com/careers/#Open_Roles/) |
 | FireFlies | [Link](https://fireflies.freshteam.com/jobs/) |
+| FlexJobs | [Link](https://www.flexjobs.com/) |
 | GitLab | [Link](https://about.gitlab.com/jobs/all-jobs/) |
 | Hubstaff | [Link](https://hubstaff.com/jobs#hsds-open-positions/) |
 | Igalia | [Link](https://www.igalia.com/jobs/) |
@@ -93,11 +95,15 @@ Company | Job Postings Link|
 | Mobile Jazz | [Link](https://mobilejazz.com/careers/) |
 | Mozilla | [Link](https://www.mozilla.org/en-US/careers/listings/) |
 | Netlify | [Link](https://www.netlify.com/careers/#perfect-job/) |
+| NoDesk | [Link](https://nodesk.co/remote-jobs/) |
 | Percona | [Link](https://www.percona.com/about-percona/careers/) |
 | Platform.sh | [Link](https://platform.sh/company/careers/#grnhse_board/) |
 | Pythian | [Link](https://jobs.lever.co/pythian/) |
 | Rebelmouse | [Link](https://careers.rebelmouse.com/) |
 | RedHat | [Link](https://careers-redhat.icims.com/jobs/search?mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300/) |
+| Remote4me | [Link](https://remote4me.com/#jobs/) |
+| Remote.co | [Link](https://remote.co/remote-jobs/) |
+| Remotive | [Link](https://remotive.com/) |
 | Scylla | [Link](https://www.scylladb.com/company/careers/) |
 | Shogun | [Link](https://getshogun.com/careers/#Open-Positions/) |
 | Shopify | [Link](https://www.shopify.com/careers/) |
@@ -108,7 +114,10 @@ Company | Job Postings Link|
 | Togetherwork | [Link](https://www.togetherwork.com/jobs/) |
 | Toggl | [Link](https://toggl.com/jobs/) |
 | Vercel | [Link](https://vercel.com/careers/) |
+| wellfound | [Link](https://angel.co/remote/) |
+| WeWorkRemotely | [Link](https://weworkremotely.com/) |
 | Wikimedia | [Link](https://wikimediafoundation.org/about/jobs/#section-1/) |
+| Working Nomads | [Link](https://www.workingnomads.com/jobs/) |
 | X-team | [Link](https://x-team.com/remote-programming-jobs/) |
 | XWP | [Link](https://join.xwp.co/) |
 | Zapier | [Link](https://zapier.com/jobs#job-openings/) |
