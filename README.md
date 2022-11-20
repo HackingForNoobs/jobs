@@ -9,6 +9,8 @@ Job listings are separated by government, non-government, and mostly remote.
 ### Hybrid Listings
 Company | Job Postings Link|
 |---|---|
+| AT&T | [Link](https://www.att.jobs/search-jobs/) |
+| Boeing | [Link](https://jobs.boeing.com/) |
 | CareerBuilder | [Link](https://www.careerbuilder.com/) |
 | Coalfire | [Link](https://www.coalfire.com/careers/) |
 | CyberSN | [Link](https://cybersn.com/public/search-jobs/) |
@@ -25,6 +27,7 @@ Company | Job Postings Link|
 | CACI | [Link](https://careers.caci.com/global/en/) |
 | ClearanceJobs | [Link](https://www.clearancejobs.com/) |
 | Cleared Connections | [Link](https://www.clearedconnections.com/) |
+| Lockheed Martin | [Link](https://www.lockheedmartinjobs.com/) |
 | Netsimco | [Link](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e957db53-3eb6-4f73-8a47-aa2a28f51e49&ccId=19000101_000001&lang=en_US/) |
 | Northrop Grumman | [Link](https://www.northropgrumman.com/jobs/) |
 | Octo | [Link](https://www.octo.us/careers/current-openings//) |
@@ -39,6 +42,7 @@ Company | Job Postings Link|
 |---|---|
 | Accenture | [Link](https://www.accenture.com/us-en/careers/jobsearch?jk=&sb=1&pg=1&vw=1&is_rj=0/) |
 | Amazon | [Link](https://account.amazon.jobs/) |
+| Apple | [Link](https://www.apple.com/careers/us/software-and-services.html/) |
 | BishopFox | [Link](https://bishopfox.com/careers/) |
 | Black Knight | [Link](https://blackknight.wd1.myworkdayjobs.com/en-US/BKC/) |
 | BNY Mellon | [Link](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions?/) |
@@ -53,6 +57,7 @@ Company | Job Postings Link|
 | Elastic | [Link](https://jobs.elastic.co/jobs/country/united-states#/) |
 | Fastly | [Link](https://www.fastly.com/about/careers/current-openings/) |
 | Herjavec Group | [Link](https://www.herjavecgroup.com/about-us/careers/) |
+| IBM | [Link](https://www.ibm.com/employment/?lnk=ushpv18ct2#jobs/) |
 | Intel | [Link](https://jobs.intel.com/en/) |
 | Leviathan | [Link](https://jobs.lever.co/LeviathanSecurityGroup/) |
 | Mandiant | [Link](https://www.mandiant.com/careers#open-roles/) |
@@ -73,6 +78,7 @@ Company | Job Postings Link|
 |---|---|
 | 10up | [Link](https://10up.com/careers/) |
 | 4 Day Week | [Link](https://4dayweek.io/) |
+| Ad Hoc | [Link](https://www.adhocteam.us/join/jobs/) |
 | AngelList | [Link](https://angel.co/company/angellist/) |
 | Authenic Jobs | [Link](https://authenticjobs.com/#onlyremote=1/) |
 | Bandcamp | [Link](https://bandcamp.com/jobs/) |
