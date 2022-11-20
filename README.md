@@ -77,12 +77,19 @@ Company | Job Postings Link|
 | AngelList | [Link](https://angel.co/company/angellist/) |
 | Authenic Jobs | [Link](https://authenticjobs.com/#onlyremote=1/) |
 | Bandcamp | [Link](https://bandcamp.com/jobs/) |
+| Built In | [Link](https://builtin.com/jobs/remote/) |
 | Career Vault | [Link](https://www.careervault.io/remote-jobs/) |
 | Chess | [Link](https://www.chess.com/jobs/) |
+| Clojure Jobs | [Link](https://clojurejobboard.com/remote-clojure-jobs.html/) |
 | Consensys | [Link](https://consensys.net/open-roles/) |
 | Crossover | [Link](https://app.crossover.com/x/marketplace/available-jobs/) |
+| CryptoJobs | [Link](https://crypto.jobs/?jobs=remote/) |
+| CryptoJobsList | [Link](https://cryptojobslist.com/remote/) |
+| Cryptocurrency Jobs | [Link](https://cryptocurrencyjobs.co/remote/) |
 | DataDog | [Link](https://careers.datadoghq.com/) |
+| Daily Remote | [Link](https://dailyremote.com/) |
 | DataRobot | [Link](https://www.datarobot.com/careers/) |
+| Dribble Jobs | [Link](https://dribbble.com/jobs?location=Anywhere/) |
 | DuckDuckGo | [Link](https://duckduckgo.com/hiring/) |
 | Eyeo | [Link](https://eyeo.com/careers/) |
 | FileCloud | [Link](https://www.filecloud.com/careers/#Open_Roles/) |
@@ -90,11 +97,19 @@ Company | Job Postings Link|
 | FireFlies | [Link](https://fireflies.freshteam.com/jobs/) |
 | FlexJobs | [Link](https://www.flexjobs.com/) |
 | GitLab | [Link](https://about.gitlab.com/jobs/all-jobs/) |
+| Golangprojects | [Link](https://www.golangprojects.com/golang-remote-jobs.html/) |
 | Google Jobs | [Link](https://www.google.com/search?q=remote&ibp=htl;jobs#fpstate=tldetail&htidocid=IO0hI7dpKTSlzSKoAAAAAA%3D%3D&htin=1&htivrt=jobs/) |
+| Guru | [Link](https://www.guru.com/) |
+| HackerX | [Link](https://hackerx.org/jobs/) |
+| Hashjob | [Link](https://hasjob.co/) |
+| HigherEdJobs | [Link](https://www.higheredjobs.com/search/remote.cfm/) |
 | Hubstaff | [Link](https://hubstaff.com/jobs#hsds-open-positions/) |
 | Igalia | [Link](https://www.igalia.com/jobs/) |
+| Jobpresso | [Link](https://jobspresso.co/remote-work/) |
 | JS Remotely | [Link](https://jsremotely.com/) |
+| JustRemote | [Link](https://justremote.co/) |
 | Kentik | [Link](https://www.kentik.com/careers/#postings/) |
+| Landing.Jobs | [Link](https://landing.jobs/jobs?hd=false&t_co=false&t_st=false/) |
 | madewithlove | [Link](https://madewithlove.com/careers/) |
 | MarsBased | [Link](https://marsbased.com/jobs/) |
 | Mobile Jazz | [Link](https://mobilejazz.com/careers/) |
