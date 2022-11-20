@@ -50,8 +50,8 @@ Company | Job Postings Link|
 | Okta | [Link](https://www.okta.com/company/careers/) |
 | Paloalto Networks | [Link](https://jobs.paloaltonetworks.com/en/jobs/#content/) |
 | Proofpoint | [Link](https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/) |
-| Remote/OK | [Link](https://remoteok.com/remote-infosec-jobs/) |
 | ReversingLabs | [Link](https://apply.workable.com/reversinglabs/?not_found=true/) |
+| Riot Games | [Link](https://www.riotgames.com/en/work-with-us/jobs/) |
 | SecurityScorecard | [Link](https://securityscorecard.com/company/careers#open-positions/) |
 | Tenable | [Link](https://careers.tenable.com/search/jobs/) |
 | Trellix | [Link](https://careers.trellix.com/) |
@@ -122,8 +122,10 @@ Company | Job Postings Link|
 | Rebelmouse | [Link](https://careers.rebelmouse.com/) |
 | RedHat | [Link](https://careers-redhat.icims.com/jobs/search?mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300/) |
 | Remote4me | [Link](https://remote4me.com/#jobs/) |
+| Remote/OK | [Link](https://remoteok.com/remote-infosec-jobs/) |
 | Remote.co | [Link](https://remote.co/remote-jobs/) |
 | Remotive | [Link](https://remotive.com/) |
+| Remote Game Jobs | [Link](https://remotegamejobs.com/) |
 | Remote Index | [Link](https://remoteindex.co/) |
 | Remote Leaf | [Link](https://remoteleaf.com/) |
 | Remote Python | [Link](https://www.remotepython.com/) |
