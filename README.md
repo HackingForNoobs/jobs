@@ -60,6 +60,7 @@ Company | Job Postings Link|
 | Fastly | [Link](https://www.fastly.com/about/careers/current-openings/) |
 | Herjavec Group | [Link](https://www.herjavecgroup.com/about-us/careers/) |
 | IBM | [Link](https://www.ibm.com/employment/?lnk=ushpv18ct2#jobs/) |
+| idr | [Link](https://www.idr-inc.com/joblist/) |
 | Intel | [Link](https://jobs.intel.com/en/) |
 | Leviathan | [Link](https://jobs.lever.co/LeviathanSecurityGroup/) |
 | Mandiant | [Link](https://www.mandiant.com/careers#open-roles/) |
