@@ -44,11 +44,13 @@ Company | Job Postings Link|
 |---|---|
 | Accenture | [Link](https://www.accenture.com/us-en/careers/jobsearch?jk=&sb=1&pg=1&vw=1&is_rj=0/) |
 | Amazon | [Link](https://account.amazon.jobs/) |
+| AOSmith | [Link](https://jobs.aosmith.com//) |
 | Apple | [Link](https://www.apple.com/careers/us/software-and-services.html/) |
 | BishopFox | [Link](https://bishopfox.com/careers/) |
 | Black Knight | [Link](https://blackknight.wd1.myworkdayjobs.com/en-US/BKC/) |
 | BNY Mellon | [Link](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions?/) |
 | BreakPoint Labs | [Link](https://jobs.polymer.co/breakpointlabs/) |
+| Bridgestone | [Link](https://www.indeed.com/cmp/Bridgestone-Americas?from=mobviewjob&tk=1gj89omc7kcn4800&fromjk=5aa6ec46a2dab4af&attributionid=mobvjcmp/) |
 | Canonical | [Link](https://canonical.com/careers/all/) |
 | Cisco | [Link](https://jobs.cisco.com/jobs/SearchJobs/) |
 | Cisco Talos | [Link](https://www.talosintelligence.com/careers/) |
@@ -70,9 +72,11 @@ Company | Job Postings Link|
 | Proofpoint | [Link](https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/) |
 | Riot Games | [Link](https://www.riotgames.com/en/work-with-us/jobs/) |
 | SecurityScorecard | [Link](https://securityscorecard.com/company/careers#open-positions/) |
+| TEKsystems | [Link](https://careers-teksystems.icims.com/jobs/search?ss=1amphashed%3D-435739636ampmobile%3Dfalseampwidth%3D1140ampheight%3D500ampbga%3DtrueampneedsRedirect%3Dfalseampjan1offset%3D-300ampjun1offset%3D-240&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300/) |
 | Tenable | [Link](https://careers.tenable.com/search/jobs/) |
 | Trellix | [Link](https://careers.trellix.com/) |
 | UnitedHealth Group | [Link](https://careers.unitedhealthgroup.com/job-search-results/) |
+| Vaco | [Link](https://jobs.vaco.com/?_gl=1*oh3rgl*_ga*MTczMDg4MTY5Ni4xNjY5OTQ3Mzkx*_ga_Y284DQJW44*MTY2OTk0NzM5MS4xLjAuMTY2OTk0NzM5MS42MC4wLjA./) |
 
 
 ### Mostly Remote Listings
