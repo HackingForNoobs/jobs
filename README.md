@@ -56,11 +56,13 @@ Company | Job Postings Link|
 | Canonical | [Link](https://canonical.com/careers/all/) |
 | Cisco | [Link](https://jobs.cisco.com/jobs/SearchJobs/) |
 | Cisco Talos | [Link](https://www.talosintelligence.com/careers/) |
+| CoreCivic | [Link](https://jobs.corecivic.com/us/en/search-results/) |
 | CrowdStrike | [Link](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/) |
 | Dell | [Link](https://jobs.dell.com/search-jobs/) |
 | Deloitte | [Link](https://applyglobal.deloitte.com/careers/) |
 | Dow Jones | [Link](https://dowjones.jobs/) |
 | Elastic | [Link](https://jobs.elastic.co/jobs/country/united-states#/) |
+| EmployBridge | [Link](https://recruiting2.ultipro.com/EMP1013EMPBR/JobBoard/8dfe92d0-c97b-4482-8667-0dd5b28c2c6a/?q=&o=postedDateDesc&w=&wc=&we=&wpst=/) |
 | Fastly | [Link](https://www.fastly.com/about/careers/current-openings/) |
 | Herjavec Group | [Link](https://www.herjavecgroup.com/about-us/careers/) |
 | IBM | [Link](https://www.ibm.com/employment/?lnk=ushpv18ct2#jobs/) |
