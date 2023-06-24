@@ -34,7 +34,8 @@ Company | Job Postings Link|
 | ManTech | [Link](https://www.mantech.com/careers-listing) |
 | Netsimco | [Link](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e957db53-3eb6-4f73-8a47-aa2a28f51e49&ccId=19000101_000001&lang=en_US/) |
 | Northrop Grumman | [Link](https://www.northropgrumman.com/jobs/) |
-| Octo | [Link](https://www.octo.us/careers/current-openings//) |
+| Octo | [Link](https://www.octo.us/careers/current-openings/) |
+| Peraton | [Link](https://careers.peraton.com/search-jobs) |
 | Raytheon | [Link](https://careers.rtx.com/global/en/search-results/) |
 | Tyto Athene | [Link](https://recruiting.adp.com/srccar/public/RTI.home?c=1179515&d=ExternalCareerSite/) |
 | USAJobs | [Link](https://www.usajobs.gov/) |
