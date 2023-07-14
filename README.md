@@ -32,6 +32,7 @@ Company | Job Postings Link|
 | Cask | [Link](https://caskgov.com/careers/openings/) |
 | Clearance Jobs | [Link](https://www.clearancejobs.com/) |
 | Cleared Connections | [Link](https://www.clearedconnections.com/) |
+| Dice | [Link](https://www.dice.com/) |
 | Grey Tier | [Link](https://graytier.com/openings) |
 | Invictus | [Link](https://invictusic.applicantpro.com/jobs/) |
 | Lockheed Martin | [Link](https://www.lockheedmartinjobs.com/) |
