@@ -35,6 +35,7 @@ Company | Job Postings Link|
 | ClearRidge Defense | [Link](https://clridge.com/federal/) |
 | Dice | [Link](https://www.dice.com/) |
 | Grey Tier | [Link](https://graytier.com/openings) |
+| Guidehouse | [Link](https://guidehouse.wd1.myworkdayjobs.com/External) |
 | Invictus | [Link](https://invictusic.applicantpro.com/jobs/) |
 | Lockheed Martin | [Link](https://www.lockheedmartinjobs.com/) |
 | ManTech | [Link](https://www.mantech.com/careers-listing) |
