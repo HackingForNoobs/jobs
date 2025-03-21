@@ -190,7 +190,3 @@ Company | Job Postings Link|
 | X-team | [Link](https://x-team.com/remote-programming-jobs/) |
 | XWP | [Link](https://join.xwp.co/) |
 | Zapier | [Link](https://zapier.com/jobs#job-openings/) |
-
-
-
-
